@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 900px;
+    background-image: url(rickverse.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#mover {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    height: 320px;
+    width: 250px;
+}
